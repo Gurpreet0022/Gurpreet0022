@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=400&lines=Data+Science+Student;ML+%26+NLP+Enthusiast" alt="Typing SVG" />
 </div>
 
-**🎓 M.Tech CSE Student** | **📍 Jalandhar, Punjab** | **🔬 Data Science & ML Enthusiast**
+**🎓 M.Tech CSE Student** | **🔬 Data Science & ML Enthusiast**
 
 ## 🛠️ Tech Stack
 
