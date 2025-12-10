@@ -29,7 +29,7 @@
 - Contributing to **Hacktoberfest 2024** & **GSSoC 2024**
 - Developing data science portfolio
 
-## 🦥 Hacktoberfest 2024
+## 🤖 Hacktoberfest 2025
 [![An image of @gurpreet0022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gurpreet0022)](https://holopin.io/@gurpreet0022)
 
 
